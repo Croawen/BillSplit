@@ -329,7 +329,6 @@ ASALocalRun/
 # MFractors (Xamarin productivity tool) working folder 
 .mfractor/
 
-/src/RldsApp/ReactSrc/node_modules
-/src/RldsApp/Web
+/src/RldsApp/react-src/node_modules
+/src/RldsApp/react-src/dist
 /src/RldsApp/dist
-/src/RldsApp/ReactSrc/dist

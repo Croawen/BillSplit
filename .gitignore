@@ -331,3 +331,5 @@ ASALocalRun/
 
 /src/RldsApp/ReactSrc/node_modules
 /src/RldsApp/Web
+/src/RldsApp/dist
+/src/RldsApp/ReactSrc/dist

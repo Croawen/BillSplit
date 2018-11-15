@@ -1,6 +1,12 @@
 ## Available Scripts
 
-In the directory, you can run following commands from the terminal:
+NodeJs is required to launch this project.<br>
+
+In the 'react-src' directory, you can run following commands from the terminal:
+
+### `yarn install`
+
+Installs all packages.
 
 ### `yarn start`
 
